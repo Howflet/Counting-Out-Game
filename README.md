@@ -41,4 +41,4 @@ Counting Out Game.py – Main script containing game logic and UI.
 
 ## Author
 
-Howard Fletcher
+**Howard Fletcher**
